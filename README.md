@@ -1,5 +1,5 @@
 # Figma
-I did like to upload my UI porjects in this Figma repository.
+I'm uploading my UI porjects in this Figma repository.
 
 1. Jewelery
 
